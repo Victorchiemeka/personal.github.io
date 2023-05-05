@@ -1,0 +1,39 @@
+
+body{
+    background-color:rgb(32,30,80);
+}
+.navbar {
+    background-color:rgb(32,30,80);
+    color: white;
+    /* Replace #FF0000 with your desired color code */
+  }
+
+.btn{
+    background-color: rgb(85, 85, 239) ;
+    color: white;
+    height: 40px;
+}
+.btn:hover{
+    background-color:aqua;
+    transition: all 0.3s ease 0s;
+}
+.offcanvas {
+    backdrop-filter: blur(1rem);
+  }
+.move{
+    margin-top: 150px;
+    height: 100%;
+}  
+.logo{
+    cursor: pointer;
+    list-style: none;
+    margin-right: auto;
+    font-weight: bold;
+    font-size: 2rem;
+}
+.about{
+    margin-top:50px ;
+    
+    color:white;
+    border-radius: 10px;
+}
